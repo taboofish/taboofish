@@ -23,8 +23,7 @@
 ****************************
 ### my repositories
 
-<a href="https://github.com/Taboo-Yu/ebooks"
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Taboo-Yu&repo=ebbks"/></a>
+[![ReadMe Card](https://git-readme-stats.vercel.app/api/pin?username=Taboo-Yu&repo=ebooks)](https://github.com/Taboo-Yu/ebooks)
 
 
  
