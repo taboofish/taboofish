@@ -4,6 +4,13 @@
 - ⚡ Fun fact: game,read book
 
 **************************
+### About Me
+
+- Age: 22y.o
+- Skills:Java,Javascript,Python
+- School:Zhejiang University of Science and Technology
+
+**************************
 ### Languages and Tools
 
 <p align="center">
