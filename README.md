@@ -19,4 +19,12 @@
 ****************************
 
 ![Taboo-YU github stats](https://github-readme-stats.vercel.app/api?username=Taboo-Yu&show_icons=true&hide_border=true)
+
+****************************
+### my repositories
+
+<a href="https://github.com/Taboo-Yu/ebooks"
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Taboo-Yu&repo=ebbks"/></a>
+
+
  
