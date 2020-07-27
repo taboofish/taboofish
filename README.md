@@ -26,7 +26,7 @@
  
 ****************************
 
-![Taboo-YU github stats](https://github-readme-stats.vercel.app/api?username=Taboo-Yu&show_icons=true&hide_border=true)
+![Taboo-YU github stats](https://github-readme-stats.vercel.app/api?username=Taboo-Yu&show_icons=true&hide_border=true&theme=synthwave)
 
 ****************************
 ### my repositories
