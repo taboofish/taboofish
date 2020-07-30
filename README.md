@@ -8,7 +8,7 @@
 ### About Me
 
 - Age: 22y.o
-- Skills:Java,Javascript,Python
+- Skills:Javascript,html5,css3,Python
 - School:Zhejiang University of Science and Technology
 
 **************************
