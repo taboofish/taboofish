@@ -25,9 +25,11 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"></p>
  
 ****************************
-## my github stats
+## my github
 
-![Taboo-YU github stats](https://github-readme-stats.vercel.app/api?username=Taboo-Yu&show_icons=true&hide_border=true&theme=highcontrast)
+| My GitHub Stats                                                                                                          | Language used most                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Taboo-Yu's github stats](https://github-readme-stats.vercel.app/api?username=Taboo-Yu&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taboo-Yu) |
 
 ****************************
 ### my repositories
